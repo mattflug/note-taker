@@ -15,3 +15,5 @@ app.use(html);
 app.listen(PORT, function () {
   console.log(`Server running on ${PORT}`);
 });
+
+// prepping to complete exercise
